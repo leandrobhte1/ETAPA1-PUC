@@ -1,0 +1,7 @@
+Neste diretório você irá encontrar:
+
+- Diagrama de classes nas extensões png e EAP (Programa Enterprise Architect);
+
+- Diagrama de casos de uso nas extensões png e drawio (do site draw.io)
+
+- Vídeo apresentando o protótipo navegável (.mp4) que pode ser conferido no link: https://www.figma.com/file/6WDA6g9jTCvAhos7OWxcQE/BarberShop-Prototype?node-id=10%3A2
